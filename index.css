@@ -13,3 +13,7 @@
 #part3 img{
     max-width: 100%;
 }
+
+#logo{
+    background-image: url(image/logo-iut.jpg);
+}
