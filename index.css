@@ -1,0 +1,15 @@
+#part1 p{
+    background-color: blue;
+}
+
+#part2 p{
+    background-color: white;
+}
+
+#part3 p{
+    background-color: red;
+}
+
+#part3 img{
+    max-width: 100%;
+}
