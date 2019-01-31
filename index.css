@@ -17,6 +17,6 @@
 #logo{
     background-image: url(image/logo-iut.jpg);
     width: 300px;
-    text-align: center;
+    image-resolution: 2;
     height: auto;
 }
