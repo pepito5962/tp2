@@ -46,21 +46,24 @@ th {
     background-color: #ccc;
 }
 
-@media only screen and (max-width: 480px){
-	table{
-		margin-top: 5vh;
-	    border: 2px solid #dddddd;
+@media only screen and (max-width: 480px) {
+    table {
+        margin-top: 5vh;
+        border: 2px solid #ccc;
+        width: 100%
+    }
 
-	}
-	td{			
-		display: block;	
-		border: inherit;
-	}
-	th{
-		display: block;
-	}
-	tr{
-		text-align: center;			
-	}
+    th {
+        display: block;
+    }
+
+    td {
+        display: block;
+        border: inherit;
+    }
+
+    tr {
+        text-align: center;
+    }
 
 }
