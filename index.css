@@ -46,7 +46,7 @@ th {
     background-color: #ccc;
 }
 
-@media only screen and (max-width: 750px) {
+@media only screen and (max-width: 480px) {
     table { 
         margin-top: 5vh;
         border: 2px solid #ccc;
@@ -66,4 +66,15 @@ th {
         text-align: center;
     }
 
+}
+
+.biereimg{
+	background: url("image/biere.jpg");
+}
+.bgimg{
+	margin: 15px;
+	height: 400px;
+	background-position: center;
+	background-size: contain;
+	background-repeat: no-repeat;
 }
