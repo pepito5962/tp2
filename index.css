@@ -46,7 +46,7 @@ th {
     background-color: #ccc;
 }
 
-@media only screen and (max-width: 480px) {
+@media only screen and (max-width: 750px) {
     table {
         margin-top: 5vh;
         border: 2px solid #ccc;
